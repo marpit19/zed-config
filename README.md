@@ -1,1 +1,1 @@
-# zed-config
+my zed configs
